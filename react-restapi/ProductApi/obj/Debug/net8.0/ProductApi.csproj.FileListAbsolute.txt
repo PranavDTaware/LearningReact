@@ -1,0 +1,248 @@
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\appsettings.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\ProductApi.exe
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\ProductApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ravi\TAP\TAP\TFLReact\solutions\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\appsettings.json
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\ProductApi.exe
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Frontend\React\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+I:\Frontend\React\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\appsettings.json
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.exe
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Frontend\React\TAP zip\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+I:\Frontend\React\TAP zip\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\appsettings.json
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\ProductApi.exe
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+I:\Frontend\React\redux-restapi-app\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\appsettings.json
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.exe
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\FullStack\TAP zip\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.dll
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+I:\FullStack\TAP zip\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\appsettings.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\ProductApi.exe
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\ProductApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApi.props
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.props
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApi.props
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+I:\FullStack\LearningReact\react-restapi\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll

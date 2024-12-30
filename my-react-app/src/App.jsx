@@ -1,13 +1,14 @@
-import CartContainer from "./components/CartContainer";
+import Container from './components/Container';
 
 function App() {
 
   return (
     <>
-
+      <div>
         <h1>Welcome</h1>
-        <hr />
-        <CartContainer/>      
+        <hr/>
+        <Container/>
+      </div>
     </>
   )
 }
